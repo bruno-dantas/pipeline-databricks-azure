@@ -1,0 +1,9 @@
+{
+	"name": "databricks-bruno",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "33745904-5936-44f7-af7e-5e9f91a40dbf",
+		"tenantId": "3f0c8491-f889-49d0-945a-2beafd6fd2d9"
+	}
+}
